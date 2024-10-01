@@ -1,0 +1,9 @@
+requests
+pathlib
+
+matplotlib
+numpy
+pandas
+
+spiceypy
+sqlalchemy
