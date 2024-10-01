@@ -3,3 +3,4 @@ workspace.code*
 dist*
 .cache*
 node_modules*
+venv*
